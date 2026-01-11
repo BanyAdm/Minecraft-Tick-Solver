@@ -7,9 +7,3 @@ its a converter between minecraft ticks and real life seconds🔢
 
 # Requirements📚
 - Python 3.12👾
-
-# Safety👀
-- Its Free Of Malware!🛡️
-
-# Creator Message🔨
-i hope you guys like it!😀
